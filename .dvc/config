@@ -1,0 +1,4 @@
+[core]
+    remote = dropbox
+['remote "dropbox"']
+    url = /home/uzuki/Dropbox/dvc-storage/xray

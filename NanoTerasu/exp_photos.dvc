@@ -1,0 +1,6 @@
+outs:
+- md5: 113b9352a9ab59f9581abd20c16f82c5.dir
+  size: 55862739
+  nfiles: 8
+  hash: md5
+  path: exp_photos
